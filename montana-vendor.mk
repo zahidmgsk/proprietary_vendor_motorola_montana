@@ -416,6 +416,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/motorola/montana/proprietary/vendor/lib/libjustshoot.so:system/vendor/lib/libjustshoot.so \
     vendor/motorola/montana/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
+    vendor/motorola/montana/proprietary/vendor/lib/libllvd_smore.so:system/vendor/lib/libllvd_smore.so \
+    vendor/motorola/montana/proprietary/vendor/lib/libllvd_sw_tnr.so:system/vendor/lib/libllvd_sw_tnr.so \
     vendor/motorola/montana/proprietary/vendor/lib/libloc_ext.so:system/vendor/lib/libloc_ext.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmbs.so:system/vendor/lib/libmbs.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmdsprpc.so:system/vendor/lib/libmdsprpc.so \
@@ -516,6 +518,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/vendor/lib/libmmcamera_s5k4h8_eeprom.so:system/vendor/lib/libmmcamera_s5k4h8_eeprom.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmmcamera_sony_rumba_eeprom.so:system/vendor/lib/libmmcamera_sony_rumba_eeprom.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmmcamera_stillmore_lib.so:system/vendor/lib/libmmcamera_stillmore_lib.so \
+    vendor/motorola/montana/proprietary/vendor/lib/libmmcamera_sw_tnr.so:system/vendor/lib/libmmcamera_sw_tnr.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmmcamera_sw2d_lib.so:system/vendor/lib/libmmcamera_sw2d_lib.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmmcamera_thread_services.so:system/vendor/lib/libmmcamera_thread_services.so \
     vendor/motorola/montana/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
