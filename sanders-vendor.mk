@@ -392,6 +392,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sanders/proprietary/vendor/lib/libchromatix_s5k4h8_video_full.so:system/vendor/lib/libchromatix_s5k4h8_video_full.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libchromatix_s5k4h8_zsl_preview_3a.so:system/vendor/lib/libchromatix_s5k4h8_zsl_preview_3a.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libchromatix_s5k4h8_zsl_video_3a.so:system/vendor/lib/libchromatix_s5k4h8_zsl_video_3a.so \
+    vendor/motorola/sanders/proprietary/vendor/lib/libdiag_system.so:system/vendor/lib/libdiag_system.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libflash_aw3641.so:system/vendor/lib/libflash_aw3641.so \
@@ -515,6 +516,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sanders/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libqomx_jpegenc_pipe.so:system/vendor/lib/libqomx_jpegenc_pipe.so \
+    vendor/motorola/sanders/proprietary/vendor/lib/libqmi_cci_system.so:system/vendor/lib/libqmi_cci_system.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libscveBlobDescriptor.so:system/vendor/lib/libscveBlobDescriptor.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libscveBlobDescriptor_stub.so:system/vendor/lib/libscveBlobDescriptor_stub.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libscveCleverCapture.so:system/vendor/lib/libscveCleverCapture.so \
@@ -550,4 +552,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sanders/proprietary/vendor/lib/sensor_calibrate.so:system/vendor/lib/sensor_calibrate.so \
     vendor/motorola/sanders/proprietary/vendor/lib/sensors.iio.so:system/vendor/lib/sensors.iio.so \
     vendor/motorola/sanders/proprietary/vendor/lib/sensors.rp.so:system/vendor/lib/sensors.rp.so \
-    vendor/motorola/sanders/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so
+    vendor/motorola/sanders/proprietary/vendor/lib/sensors.ssc.so:system/vendor/lib/sensors.ssc.so \
+    vendor/motorola/sanders/proprietary/vendor/lib/vendor.qti.hardware.sensorscalibrate@1.0.so:system/vendor/lib/vendor.qti.hardware.sensorscalibrate@1.0.so
+    vendor/motorola/sanders/proprietary/vendor/lib64/libdiag_system.so:system/vendor/lib64/libdiag_system.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/libqmi_cci_system.so:system/vendor/lib64/libqmi_cci_system.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/libsensor1.so:system/vendor/lib64/libsensor1.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/libsensor_reg.so:system/vendor/lib64/libsensor_reg.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/sensor_calibrate.so:system/vendor/lib64/sensor_calibrate.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/sensors.iio.so:system/vendor/lib64/sensors.iio.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/sensors.rp.so:system/vendor/lib64/sensors.rp.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/sensors.ssc.so:system/vendor/lib64/sensors.ssc.so \
+    vendor/motorola/sanders/proprietary/vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so:system/vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so
