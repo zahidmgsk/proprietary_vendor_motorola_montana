@@ -614,5 +614,4 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/montana/proprietary/vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so:system/vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so \
 
 PRODUCT_PACKAGES += \
-    com.quicinc.cne \
     vendor.qti.hardware.sensorscalibrate-V1.0-java
